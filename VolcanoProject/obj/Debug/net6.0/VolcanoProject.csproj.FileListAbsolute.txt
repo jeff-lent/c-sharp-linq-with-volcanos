@@ -1,0 +1,15 @@
+/home/jeff/Documents/Projects/c-sharp-linq-with-volcanos/VolcanoProject/bin/Debug/net6.0/VolcanoProject
+/home/jeff/Documents/Projects/c-sharp-linq-with-volcanos/VolcanoProject/bin/Debug/net6.0/VolcanoProject.deps.json
+/home/jeff/Documents/Projects/c-sharp-linq-with-volcanos/VolcanoProject/bin/Debug/net6.0/VolcanoProject.runtimeconfig.json
+/home/jeff/Documents/Projects/c-sharp-linq-with-volcanos/VolcanoProject/bin/Debug/net6.0/VolcanoProject.dll
+/home/jeff/Documents/Projects/c-sharp-linq-with-volcanos/VolcanoProject/bin/Debug/net6.0/VolcanoProject.pdb
+/home/jeff/Documents/Projects/c-sharp-linq-with-volcanos/VolcanoProject/obj/Debug/net6.0/VolcanoProject.csproj.AssemblyReference.cache
+/home/jeff/Documents/Projects/c-sharp-linq-with-volcanos/VolcanoProject/obj/Debug/net6.0/VolcanoProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/jeff/Documents/Projects/c-sharp-linq-with-volcanos/VolcanoProject/obj/Debug/net6.0/VolcanoProject.AssemblyInfoInputs.cache
+/home/jeff/Documents/Projects/c-sharp-linq-with-volcanos/VolcanoProject/obj/Debug/net6.0/VolcanoProject.AssemblyInfo.cs
+/home/jeff/Documents/Projects/c-sharp-linq-with-volcanos/VolcanoProject/obj/Debug/net6.0/VolcanoProject.csproj.CoreCompileInputs.cache
+/home/jeff/Documents/Projects/c-sharp-linq-with-volcanos/VolcanoProject/obj/Debug/net6.0/VolcanoProject.dll
+/home/jeff/Documents/Projects/c-sharp-linq-with-volcanos/VolcanoProject/obj/Debug/net6.0/refint/VolcanoProject.dll
+/home/jeff/Documents/Projects/c-sharp-linq-with-volcanos/VolcanoProject/obj/Debug/net6.0/VolcanoProject.pdb
+/home/jeff/Documents/Projects/c-sharp-linq-with-volcanos/VolcanoProject/obj/Debug/net6.0/VolcanoProject.genruntimeconfig.cache
+/home/jeff/Documents/Projects/c-sharp-linq-with-volcanos/VolcanoProject/obj/Debug/net6.0/ref/VolcanoProject.dll
